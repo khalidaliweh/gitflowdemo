@@ -1,5 +1,6 @@
 initial commit master
 one more master commit
+urgent change in master
 develop commit
 develop commit 2  this wasan urgent commit
 good feature commit
@@ -8,4 +9,4 @@ good feature commit 3
 
 
 
-version 0.0.1
+version 0.0.2
