@@ -1,7 +1,7 @@
 initial commit master
 one more master commit
 develop commit
-develop commit 2  this wasan urgent commit
+develop commit 2  this was an urgent commit
 good feature commit
 good feature commit 2
 good feature commit 3
